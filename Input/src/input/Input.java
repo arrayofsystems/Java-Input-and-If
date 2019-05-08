@@ -1,3 +1,9 @@
+//This is a sigle line comment
+
+/*
+This is a multi line comment
+*/
+
 package input;
 import java.util.Scanner; // Allows the user to input data 
 
