@@ -35,7 +35,7 @@ public class Input {
     }
        //If the response does not match 
        else {
-          System.out.println("Try again");
+          System.out.print("Try again");
 
        }
 
